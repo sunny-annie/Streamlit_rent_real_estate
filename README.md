@@ -38,11 +38,11 @@
 
 ![graph5](https://github.com/sunny-annie/Streamlit_rent_real_estate/blob/main/img/price%20parking.png)
 
-Цена зависит и от вида парковки
+Цена зависит и от вида парковки!
 
 ![graph6](https://github.com/sunny-annie/Streamlit_rent_real_estate/blob/main/img/price%20squere.png)
 
-Хочешь гулять по квартире, как барон, придется платить
+Хочешь гулять по квартире, как барон, придется платить!
 
 ### НАША КОМАНДА:
 
