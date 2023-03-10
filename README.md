@@ -23,7 +23,26 @@
 
 ## Основные выводы по проделанной работе
 
+![graph1](https://github.com/sunny-annie/Streamlit_rent_real_estate/blob/main/img/q_f%20from%20price.png)
 
+Чем больше комнат, тем больше цена!
+
+![graph2](https://github.com/sunny-annie/Streamlit_rent_real_estate/blob/main/img/price%20balcony.png)
+
+Чем больше балконов, тем больше цена!
+
+![graph3](https://github.com/sunny-annie/Streamlit_rent_real_estate/blob/main/img/mean%20price%20children.png)
+![graph4](https://github.com/sunny-annie/Streamlit_rent_real_estate/blob/main/img/mean%20price%20pet.png)
+
+Есть дети или животные, плати!
+
+![graph5](https://github.com/sunny-annie/Streamlit_rent_real_estate/blob/main/img/price%20parking.png)
+
+Цена зависит и от вида парковки
+
+![graph6](https://github.com/sunny-annie/Streamlit_rent_real_estate/blob/main/img/price%20squere.png)
+
+Хочешь гулять по квартире, как барон, придется платить
 
 ### НАША КОМАНДА:
 
